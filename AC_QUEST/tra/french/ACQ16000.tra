@@ -6,15 +6,15 @@
 @5    = ~Ce que nous faisons, c'est notre affaire.~
 @6    = ~Hors de mon chemin !~
 @7    = ~Que voulez-vous maintenant ?~
-@8    = ~Oh, vraiment ? Vous avez trouvé ça tout seul ?~~Oh, vraiment ? Vous avez trouvé ça toute seule ?~
+@8    = ~Oh, vraiment ? Vous avez trouvé ça tout seul ?~ ~Oh, vraiment ? Vous avez trouvé ça toute seule ?~
 @9    = ~Pouvons-nous vous aider de quelque manière que ce soit ?~
 @10   = ~Vous hurlez souvent devant les portes ?~
 @11   = ~Vous êtes si drôle, je suis presque en train de m'écrouler de rire. Je suis sûre que vous pouvez comprendre que je ne crie pas devant cette porte, mais sur le singe prêcheur qui est là-dedans et qui se dit mage.~
 @12   = ~Bah, peu importe. Faites ce que vous voulez. Et si vous entrez là-dedans, dites à ce cuscute ossifié de se sortir son bâton du cul et de m'aider !~
 @13   = ~Oh, oui, j'ai compris. Des trucs de héros top-secret et tout ça, hein ? Alors, allez-y, faufilez-vous dans les bois, baissez vos capuches et asseyez-vous dans les coins sombres des tavernes. Bah. Cela ne m'impressionne pas plus qu'une cage pleine de grouilleux stérilisés.~
-@14   = ~Bah. En fin de compte, vous n'êtes qu'un idiot de plus.~~Bah. En fin de compte, vous n'êtes qu'une idiote de plus.~
+@14   = ~Bah. En fin de compte, vous n'êtes qu'un idiot de plus.~ ~Bah. En fin de compte, vous n'êtes qu'une idiote de plus.~
 @15   = ~Oh, le brave héros a flairé une chance d'aider une demoiselle en détresse ?~ ~Oh, la brave héroïne a flairé une chance d'aider une demoiselle en détresse ?~ 
-@16   = ~Comme c'est touchant. Mais si vous n'êtes pas doué pour l'alchimie, vous ne pourrez guère m'aider.~~Comme c'est touchant. Mais si vous n'êtes pas douée pour l'alchimie, vous ne pourrez guère m'aider.~
+@16   = ~Comme c'est touchant. Mais si vous n'êtes pas doué pour l'alchimie, vous ne pourrez guère m'aider.~ ~Comme c'est touchant. Mais si vous n'êtes pas douée pour l'alchimie, vous ne pourrez guère m'aider.~
 @17   = ~Je ne connais pas vraiment l'alchimie. Mais je peux peut-être vous aider quand même.~
 @18   = ~Vous savez, cette conversation serait plus facile si vous arrêtiez de m'insulter.~
 @19   = ~Je n'ai pas *à* vous aider si vous ne le voulez pas.~
@@ -130,7 +130,7 @@
 @129  = ~Aaaah ! Par les dieux, quel cauchemar ! Je... qui... qui êtes-vous ? Où suis-je ?~
 @130  = ~Vous êtes sauf. Nous vous avons libéré de la lycanthropie.~
 @131  = ~Vous êtes chez vous, et libéré de la malédiction.~
-@132  = ~Je ne suis qu'un simple mercenaire qui fait son travail.~~Je ne suis qu'une simple mercenaire qui fait son travail.~
+@132  = ~Je ne suis qu'un simple mercenaire qui fait son travail.~ ~Je ne suis qu'une simple mercenaire qui fait son travail.~
 @133  = ~Eh bien, on dirait que vous êtes remis sur pied, hein ?~
 @134  = ~Ressaisissez-vous !~
 @135  = ~De la lycanthropie ? De quoi parlez-vous...~
@@ -139,7 +139,7 @@
 @138  = ~Remis sur pieds ? De quoi parlez-vous...~
 @139  = ~Me ressaisir ? De quoi parlez-vous...~
 @140  = ~Aiwell ! Je dois la rejoindre !~
-@141  = ~Je vous suis très redevable, mon seigneur. Mon mari est sauvé et je n'aurais jamais pu le faire sans votre aide.~~Je vous suis très redevable, ma dame. Mon mari est sauvé et je n'aurais jamais pu le faire sans votre aide.~
+@141  = ~Je vous suis très redevable, mon seigneur. Mon mari est sauvé et je n'aurais jamais pu le faire sans votre aide.~ ~Je vous suis très redevable, ma dame. Mon mari est sauvé et je n'aurais jamais pu le faire sans votre aide.~
 @142  = ~Les derniers jours sont comme un cauchemar dans ma tête. Aiwell m'a déjà raconté ce qui s'est passé.~
 @143  = ~Nous devrions nous détendre quelques jours, mon chéri. Allons à la Porte de Baldur.~
 @144  = ~Une bonne idée. Je pense que je deviendrais fou dans cette maison.~

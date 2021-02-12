@@ -4,8 +4,8 @@
 @3    = ~Il se trouve que nous sommes disponibles à la location. Travail bien fait si le paiement est correct.~ 
 @4    = ~Laissez-moi tranquille, j'ai des choses plus importantes à faire.~
 @5    = ~(Poussez la femme de côté) Hors de mon chemin !~
-@6    = ~Oh, merci, bon monsieur.~~Oh, merci, bonne dame.~
-@7    = ~Je... Je vais essayer, bon monsieur.~~Je... Je vais essayer, bonne dame.~
+@6    = ~Oh, merci, bon monsieur.~ ~Oh, merci, bonne dame.~
+@7    = ~Je... Je vais essayer, bon monsieur.~ ~Je... Je vais essayer, bonne dame.~
 @8    = ~Oh s'il vous plaît, écoutez mon histoire. Je paierai n'importe quel prix si vous m'aidez.~
 @9    = ~Oh non je vous en prie, repensez-y !~
 @10   = ~Mon fils, mon Aaron bien-aimé est parti ! S'il vous plaît, vous devez le retrouver, il est tout pour moi !~
@@ -30,7 +30,7 @@
 @29   = ~Rien pour le moment.~
 @30   = ~Nous avons trouvé Marina. Précisément, son fantôme.~
 @31   = ~Nous avons trouvé Marina et avons offert la rédemption à son fantôme tourmenté.~
-@32   = ~Madame, je suis désolé. Votre fils est mort.~~Madame, je suis désolée. Votre fils est mort.~
+@32   = ~Madame, je suis désolé. Votre fils est mort.~ ~Madame, je suis désolée. Votre fils est mort.~
 @33   = ~Alors, s'il vous plaît, cherchez plus loin ! Je peux sentir qu'il souffre !~
 @34   = ~Marina est un fantôme ? Oh non ! La pauvre fille ! Vous lui donnerez la rédemption, n'est-ce pas ?~
 @35   = ~Oh, c'était certainement très courageux de votre part ! J'espère qu'elle n'a pas eu à souffrir trop longtemps...~
@@ -60,16 +60,16 @@
 @59   = ~Oh par les dieux ! C'est ma bague ! Puis-je la récupérer ? Je vous en prie !~
 @60   = ~Bien sûr, voilà.~
 @61   = ~Je pense que je vais garder la bague comme paiement.~
-@62   = ~Sur mon âme, monsieur, vous êtes trop généreux.~~Sur mon âme, madame, vous êtes trop généreuse.~
+@62   = ~Sur mon âme, monsieur, vous êtes trop généreux.~ ~Sur mon âme, madame, vous êtes trop généreuse.~
 @63   = ~Mais, euh... oui. Je suppose que c'est juste.~
 @64   = ~Alors nous devrions partir d'ici sur-le-champ ! Je vous retrouve de l'autre côté du pont !~
-@65   = ~Vous voilà, monsieur !~~Vous voilà, madame !~
+@65   = ~Vous voilà, monsieur !~ ~Vous voilà, madame !~
 @66   = ~Vous êtes de nouveau libre et vous avez votre bague. Qu'est-ce qui nous retarderait maintenant ?~
 @67   = ~Vous êtes de nouveau libre. Qu'est-ce qui nous retarderait maintenant ?~
 @68   = ~Nous avons trouvé votre bague.~
 @69   = ~Nous n'avons pas encore trouvé votre bague.~
 @70   = ~Nous devons d'abord ratisser cet endroit. Attendez, s'il vous plaît.~
-@71   = ~Rien, monsieur, absolument rien ! Sortons d'ici, vite !~~Rien, madame, absolument rien ! Sortons d'ici, vite !~
+@71   = ~Rien, monsieur, absolument rien ! Sortons d'ici, vite !~ ~Rien, madame, absolument rien ! Sortons d'ici, vite !~
 @72   = ~Très bien, allons-y !~
 @73   = ~Nous devrions d'abord explorer un peu plus.~
 @74   = ~Avez-vous ma bague ? Super ! Euh... je peux l'avoir, s'il vous plaît ?~
@@ -84,7 +84,7 @@
 @83   = ~J'ai bien peur que nous devions parler de Marina, Aaron. Nous l'avons rencontrée. Ou plutôt, son fantôme.~
 @84   = ~J'ai bien peur que nous devions parler de Marina, Aaron. Marina était un fantôme. Nous devions la détruire.~
 @85   = ~Nous voulions juste voir comment vous vous en sortiez.~
-@86   = ~Un fantôme ? Vous voulez dire... vous voulez dire que c'est Marina ? Oh s'il vous plaît, vous devez en être sûr, monsieur. Allez vérifier la chute d'eau, s'il vous plaît !~~Un fantôme ? Vous voulez dire... vous voulez dire que c'est Marina ? Oh s'il vous plaît, vous devez en être sure, madame. Allez vérifier la chute d'eau, s'il vous plaît !~
+@86   = ~Un fantôme ? Vous voulez dire... vous voulez dire que c'est Marina ? Oh s'il vous plaît, vous devez en être sûr, monsieur. Allez vérifier la chute d'eau, s'il vous plaît !~ ~Un fantôme ? Vous voulez dire... vous voulez dire que c'est Marina ? Oh s'il vous plaît, vous devez en être sure, madame. Allez vérifier la chute d'eau, s'il vous plaît !~
 @87   = ~Son fantôme ? Comment est-ce possible ?~
 @88   = ~Elle a promis de rester éveillée, n'est-ce pas ?~
 @89   = ~Détruite ? Oh non... ma pauvre Marina. (sanglots)~
@@ -123,7 +123,7 @@
 @122  = ~Oui, c'est pourquoi ?~
 @123  = ~Que faites-vous là ?~
 @124  = ~Nous avons parlé à Mme Brunnstein.~
-@125  = ~Désolé. On repart.~~Désolée. On repart.~
+@125  = ~Désolé. On repart.~ ~Désolée. On repart.~
 @126  = ~Je suis Barin, un rôdeur des Pics brumeux. Que me voulez-vous ?~
 @127  = ~Je prie, que pourrait-on faire d'autre dans un temple ?~
 @128  = ~(SAGESSE) Si un rôdeur de Heaum prie, c'est que quelque chose de spécial s'est passé, n'est-ce pas ?~
@@ -151,7 +151,7 @@
 @150  = ~Oui, c'est bien ce que je pensais. Prions les dieux pour qu'elle trouve la paix.~
 @151  = ~Oui, c'est bien ce que je pensais. J'espère qu'elle a enfin trouvé la paix.~
 @152  = ~Aaron ! Mon cher garçon ! Tu es de retour !~
-@153  = ~Oui, maman ! Ce monsieur m'a libéré du repaire des gnolls !~~Oui, maman ! Cette damer m'a libéré du repaire des gnolls !~
+@153  = ~Oui, maman ! Ce monsieur m'a libéré du repaire des gnolls !~ ~Oui, maman ! Cette damer m'a libéré du repaire des gnolls !~
 @154  = ~Laisse-moi t'embrasser, mon fils !~
 @155  = ~Maman, dis-moi : Marina va bien ? Où est-elle ?~
 @156  = ~Oh, mon garçon...~
@@ -162,7 +162,7 @@
 @161  = ~Je crains que ce soit encore pire, Aaron. Nous avons rencontré Marina. Ou plutôt, son fantôme.~
 @162  = ~Je crains que ce soit encore pire, Aaron. Marina était un fantôme. Nous devions la détruire.~
 @163  = ~Eh bien, si je n'ai plus rien à faire ici, je ferais mieux de partir.~
-@164  = ~Oh, vous êtes trop gentil ! Je ferai toujours l'éloge de votre nom !~~Oh, vous êtes trop gentille ! Je ferai toujours l'éloge de votre nom !~
+@164  = ~Oh, vous êtes trop gentil ! Je ferai toujours l'éloge de votre nom !~ ~Oh, vous êtes trop gentille ! Je ferai toujours l'éloge de votre nom !~
 @165  = ~Si vous me cherchez, vous me trouverez probablement au moulin. (soupire lourdement)~
 @166  = ~Vous êtes vraiment de grands héros !~
 @167  = ~C'est plus que ce que je peux me permettre. Chérissez-la.~
