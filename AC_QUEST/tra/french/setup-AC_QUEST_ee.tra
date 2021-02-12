@@ -1,13 +1,13 @@
-@21   = ~Aaron's Ring of Protection
+@21   = ~Anneau de protection d'Aaron
 
-This simple ring is provided with a faint spell to protect the wearer. The engraving within says: 'In love for M., from A.'
+Cette simple bague est munie d'un sort pour protéger son porteur. La gravure à l'intérieur dit : "Amour pour M., de A.".
 
-STATISTICS:
+PARAMÈTRES :
 
-Armor Class: +1 bonus
-Saving Throws: +1 bonus 
+Classe d'Aramure : +1
+Jets de Sauvegarde : +1
 
-Weight: 0~
+Poids : 0~
 
 
 @27   = ~Un petit lapin blanc. Peut-être le plus duveteux que vous n'ayez jamais vu.
@@ -22,7 +22,6 @@ PARAMÈTRES :
 
 Poids : 3
 ~
-
 @30   = ~Ceci est le corps de Perwell.
 
 PARAMÈTRES :
@@ -30,50 +29,29 @@ PARAMÈTRES :
 Poids : 110
 ~
 //@32   not needed in EE!
+@38   = ~Après sa mort, le loup-garou est redevenu un humain.
 
-@38   = ~After death the werewolf has turned back into a human.
+PARAMÈTRES :
 
-STATISTICS:
+Poids : 105~
+@40   = ~Les baies de guril sont des remèdes traditionnels à Faerûn, et sont utilisées pour diverses applications. Elles sont particulièrement appréciées pour soulager les souffrances du type "privées", c'est pourquoi ces baies sont souvent proposées par les magasins à proximité des courtisanes.
 
-Weight: 105
-~
+Poids : 1~ 
+@44   = ~Cette potion contient principalement des fleurs de Belladone.
 
-@40   = ~Guril berries are traditional remedies in Faerûn, and are used for various applications. They are especially popular to alleviate sufferings of the 'special' type, which is why these berries are often offered by stores in vicinity to courtesans.
+Poids : 0~
+@45   = ~Cette potion contient principalement des baies de Guril.
 
-STATISTICS:
+Poids : 0~
+@46   = ~Cette potion contient principalement du sang d'Aiwell.
 
-Weight: 1
-~ 
-
-
-@44   = ~This potion contains mainly belladonna flowers.
-
-STATISTICS:
-
-Weight: 0
-~
-@45   = ~This potion contains mainly Guril berries.
-
-STATISTICS:
-
-Weight: 0
-~
-@46   = ~This potion contains mainly Aiwell's blood.
-
-STATISTICS:
-
-Weight: 0
-~
+Poids : 0~
 
 //@48   not needed in EE!
 
-@50   = ~In this book the great Karlini, one of the most colorful figures of gnomish wisdom, wrote down his experiences and spells. The handwriting is confusing and scrawly, probably only someone who is as mad as Karlini could decipher this scribble.
+@50   = ~Dans ce livre, le grand Karlini, l'une des figures les plus colorées de la sagesse gnomique, a consigné ses expériences et ses sorts. L'écriture est confuse et gribouillée, et il est probable que seul quelqu'un d'aussi fou que Karlini soit en mesure de déchiffrer ce griffonnage.
 
-STATISTICS:
-
-Weight: 2
-~
-
+Poids : 2~
 @55   = ~Cette clé ouvre la porte de la maison de Geraldo au centre de la Porte de Baldur.
 
 PARAMÈTRES :
@@ -95,118 +73,84 @@ Sans cet oiseau, il serait difficile de traquer les grouilleux dans les caves et
 
 PARAMÈTRES :
 
-Poids : 1
-~
+Poids : 1~
 
-@67   = ~A small key, opening some sort of panel in the wall.
+@67   = ~Une petite clé, qui ouvre une sorte de panneau dans le mur.
 
-STATISTICS:
+Poids : 0~
 
-Weight: 0
-~
+@69   = ~Cette clé ouvre un entrepôt dans le quartier sud de la ville. Les Serpents d'Abbathor en ont fait leur repaire.
 
-@69   = ~This key opens a warehouse in the Southern District of the city. The Serpents of Abbathor have their hideout there.
+Poids : 0~
 
-STATISTICS:
+@76   = ~Cette liasse de feuillets détachés semble résumer dans une large mesure l'approche des Serpents d'Abbathor. Apparemment, leur plan était dès le début de capturer un ancien dispositif de nain, appelé Gundmagtor, qui dans le langage courant signifie quelque chose comme "Appelant des âmes noires". La frappe principale de la secte semble se concentrer sur Nashkel, et la note "<CHARNAME> a tué Mulahey, les mines sont libres" est de mauvais augure.
 
-Weight: 0
-~
+Poids : 0~
 
+@80   = ~Lugosch Manteaugris a écrit son cheminement de petit cultivateur à prêtre d'Abbathor avec une écriture soignée. Chaque ligne est pleine de confiance et d'arrogance. Il décrit comment le culte a pris racine à Amn et comment il a lui-même été engagé comme homme de main de la famille Lurraxol à Francmarché. Le culte s'est développé et a rapidement migré vers les grandes villes, pour se retrouver maintenu par les Voleurs de l'ombre à Athkatla. Lugosch, qui était devenu prêtre, fut appelé par les chefs du culte à monter vers le nord et à poursuivre son travail à la Porte de Baldur.
 
+Les dernières entrées du livre traitent de ses efforts pour entrer en contact avec Mulahey dans les mines de Nashkel, décrivent le rejet grossier annoncé par le demi-orque aux nains et sa joie malicieuse lorsque <CHARNAME> a libéré la mine. Lugosch y a vu sa chance et a mené une attaque rapide pour incorporer une mine de fer en bon état de marche dans le culte.
 
-@76   = ~This bundle of wrapped loose pages seems to summarize the approach of the Serpents of Abbathor to a large extent. Apparently, it was their plan from the beginning to capture an ancient dwarfish device, called Gundmagtor, which in common language means something like 'Caller of Black Souls'. The main strike of the cult seems to focus on Nashkel, and the note '<CHARNAME> has killed Mulahey, mines are free' bodes ill indeed.
+Poids : 2~
 
-STATISTICS:
+@82   = ~Emerson, le contremaître des mines de Nashkel, a consigné par écrit ses calculs et son expérience dans ce tas de documents déroutants. Pour quelqu'un qui travaille dans l'industrie minière, ce fouillis d'informations est sûrement une mine d'or. Pour vous, en revanche, les notes sont inutiles.
 
-Weight: 0
-~
+Poids : 3~
 
-@80   = ~Lugosch Grayshirt has written down his journey from a small cultist to priest of Abbathor with neat handwriting. Every line is full of confidence and arrogance. He describes how the cult took root in Amn and he himself was hired as a henchman to the Lurraxol family in Trademeet. The cult grew and soon migrated to larger cities, only to find itself kept down by the Shadow Thieves in Athkatla. Lugosch, who now had ascended to priesthood, was called away by the cult leaders to descend northwards and continue his work in Baldur's Gate.
+@84   = ~Ce livre a l'air très vieux et a subi beaucoup de dégâts. Certaines pages sont déchirées et d'autres percées, certaines sont brûlées, et une grande partie du livre est maculée de sang. Même si vous ne pouvez pas déchiffrer le nom du prêtre, il semble que le vieux vagabond ait traversé beaucoup de choses : des voyages avec un groupe d'aventuriers, certains conflits sur la "vraie" existence des nains et enfin le bannissement de son clan. Pour le nain, pour qui sa famille était tout, cette perte lui a d'abord fait perdre la tête, puis l'a conduit tout droit dans les bras des Serpents.
 
-The last entries of the book deal with his efforts to get in touch with Mulahey in the mines of Nashkel, describe the rude denial given by the Halforc to the dwarves and his malicious glee when <CHARNAME> freed the mine. Lugosch saw his chance and led a fast strike to incorporate a smoothly running iron mine into the cult.
-
-STATISTICS:
-
-Weight: 2
-~
-
-@82   = ~Emerson, the foreman of the Nashkel Mines, has written down his calculations and experience in this messed up cluster of papers. For someone who works in the mining industry, this jumble of information is surely a gold mine. For you, however, the notes are useless.
-
-STATISTICS:
-
-Weight: 3
-~
-
-@84   = ~This book looks very old and has been through a lot. Some pages are torn and others pierced, some singed, and a large part of the book is smeared with blood. Even if you cannot decipher the name of the priest, it seems the old wanderer has gone through a lot - traveling with a group of adventurers, certain conflicts over the 'true' dwarf existence and finally the banishment from his clan. To the dwarf, to whom his family was above all, this loss made him first lose his mind and then drove him straight into the arms of the Serpents.
-
-STATISTICS:
-
-Weight: 0
-~
+Poids : 0~
 
 //@86   not needed in EE!
 
-@88   = ~The book is written with neat handwriting and reports the last trip of Bashrik Sparklehammer. Bashrik was on the tail of a cult that calls itself 'The Serpents of Abbathor'. For them, Abbathor, the only evil god among the Morndinsamman, is considered the liberator and saint patron of the dwarfkind of the surface.
+@88   = ~Le livre est écrit avec une écriture soignée et relate le dernier voyage de Bashrik Marteauchargé. Bachrik était à la poursuite d'une secte appelée "Les Serpents d'Abbathor". Pour eux, Abbathor, le seul dieu maléfique parmi les Morndinsamman, est considéré comme le libérateur et le saint patron des nains occupants la surface.
 
-You cannot learn much more from the book because apparently, the notes of Bashrik were written primarily for the initiated. Only the last entry could offer a clue, should you want to look into the matter:
+Vous ne pouvez pas en apprendre beaucoup plus dans ce livre car apparemment, les notes de Bashrik ont été écrites principalement pour les initiés. Seule la dernière entrée pourrait offrir un indice, si vous voulez vous pencher sur le sujet :
 
-'I have departed from Wostok today. Mirjala and I will try our luck south, Wostok will take a look in the big city. We will meet again in the temple of Helm when I have more information.
+"Je me suis séparé de Wostok aujourd'hui. Mirjala et moi allons tenter notre chance dans le sud, Wostok va jeter un coup d'œil dans la grande ville. Nous nous retrouverons au temple de Heaum quand j'aurai plus d'informations.
 
-Addendum: After racking the assassin who awaited us at the Friendly Arm Inn I have learned a name, at least. A certain Draglon appears in the Undercellars to regulate the affairs of the cult. Well, I will delay that until my return.'
+Addendum : Après avoir fait parler l'assassin qui nous attendait à l'Auberge de Brasamical, j'ai appris un nom, au moins. Un certain Draglon attend dans les caves souterraines pour régler les affaires de la secte. Eh bien, je vais retarder cela jusqu'à mon retour".
 
-(If you want to investigate the cult and what it's about, it will be of advantage to keep this book.)
+(Si vous voulez enquêter sur la secte et sur ce dont il s'agit, il serait préférable de conserver ce livre.)
 
-STATISTICS:
+Poids : 2~
 
-Weight: 2
-~
+@91   = ~Vous ne savez pas ce que fait exactement cet artefact. Les Serpents d'Abbathor le veulent, c'est probablement une information suffisante.
 
-@91   = ~What this artifact exactly does is unknown to you. The Serpents of Abbathor want it, that's probably sufficient information.
+Poids : 30~
 
-STATISTICS:
+@93   = ~L'histoire de cet artefact se déroule dans l'obscurité. D'après ce que vous pouvez conjecturer à partir des quelques bribes que vous avez apprises jusqu'à présent, et si vous avez interprété correctement les quelques anciennes runes naines qui recouvrent l'appareil, cet artefact permet d'une certaine manière de contacter les ancêtres des nains et de rediriger leur énergie sous forme d'êtres d'ombre.
 
-Weight: 30
-~
+D'après ce que vous savez des anciens nains, un tel acte est le plus grand sacrilège dont un nain puisse être capable. La paix des morts est sacrée et seules des âmes très corrompues oseraient la rompre.
 
-@93   = ~The history of this artifact lies in darkness. From what you can conjecture from the few scraps that you have learned so far, and if you have interpreted the few ancient dwarven runes that cover the device correctly, this artifact in some way allows you to contact the forefathers of the dwarves and redirect their energy into shadowy beings.
-
-From what you know about the old dwarves, such an act is the greatest sacrilege a dwarf might be capable of. The peace of the dead is sacred and only very corrupted souls would dare to break it.
-
-STATISTICS:
-
-Weight: 30
-~
+Poids : 30~
 
 //#6742 BGII
-@80042 = ~These swords are usually referred to as double-edged swords, war swords, or military swords. In many cases, the long sword has a single-edged blade. There is no single version of the long sword; the design and length vary from culture to culture and may vary within the same culture depending on the era. Among the most common characteristics of all long swords is their length, which ranges from thirty-five inches to forty-seven inches. In the latter case, the blade is known to take up forty inches of the total length. Most long swords have a double-edged blade and a sharp point at the tip. Despite the tip, the long sword is designed for slashing, not thrusting.
+@80042 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante. 
 
-STATISTICS:
+PARAMÈTRES :
 
-Damage: 1d8 (slashing)
-Speed Factor: 4
-Proficiency Type: Long Sword
-Type: One-handed
-Requires:
- 6 Strength
-
-Weight: 4~
+Dégâts :  1D8
+Type de dégât : tranchant
+Poids : 4
+Facteur de vitesse : 4
+Type de compétence : Épée longue
+Type : arme à 1 main
+Force nécessaire : 6~
 
 //#4421 BGII
-@80043 = ~This blade burns with a magical fire, and a charring blast is released whenever a hit is scored. "Meta Infernum" is etched on the hilt, though it appears somewhat faded and may not be original to the sword.
+@80043 = ~Cette lame brûle avec un feu magique, et un souffle carbonisé est émis chaque fois qu'un coup est porté. "Meta Infernum" est gravé sur la poignée, quelque peu effacé et qui semble avoir été rajouté à l’épée originale.
 
-STATISTICS:
+PARAMÈTRES :
 
-THAC0: +1
-Damage: 1d8+1, +1 fire damage
-Damage type: Slashing
-Speed Factor: 4
-Proficiency Type: Long Sword
-Type: One-handed
-Requires:
- 6 Strength
-
-Weight: 4
-~ 
+Dégâts :  1D8 +1 (+1 de feu)
+TAC0 : +1
+Type de dégât : tranchant
+Poids : 4
+Facteur de vitesse : 4
+Type de compétence : Épée longue
+Type : arme à 1 main
+Force nécessaire : 6~ 
 //#6742 BGII same as @80042
 
 
@@ -216,51 +160,43 @@ Weight: 4
 //@80047 = only needed for BGT+Tutu
 
 //#39444 BGII
-@80053 = ~A dwarven smith, Silverblade, forged this hammer and two other items: a girdle of frost giant strength and a pair of gauntlets of ogre power. His intention was to gift them to his son, who was then a high officer in the dwarven armies, fighting the giant and ogre tribes of the area. Unfortunately, Silverblade's son died just after the completion of the three items and before they could be gifted to him. In grief, Silverblade himself donned the girdle and the gauntlets. Taking up the Hammer of Thunderbolts, he went to battle against the giant folk. He died valiantly.
+@80053 = ~Silverblade, un forgeron nain, créa ce marteau et deux autres objets, un ceinturon des géants et des gantelets des ogres. Son intention était de les offrir à son fils qui, en tant qu'officier supérieur dans les armées naines, combattait les géants et les tribus d'ogres de la région. Malheureusement le fils de Silverblade mourut à la fin de la fabrication des objets, avant qu'ils ne lui aient été offerts. De chagrin, Silverblade mit le ceinturon et les gantelets, et prenant le marteau de tonnerre, il partit se battre contre les géants. Il mourut en héros. Seul, le marteau de tonnerre est un objet magique puissant, mais combiné avec le ceinturon des géants et les gantelets des ogres, son pouvoir est transformé. Cette modification nécessite une aide magique. Le marteau de tonnerre devient alors capable d'infliger 8 points de dégâts supplémentaires par coup, et de tuer instantanément tous les géants et les ogres qu'il touche.
 
-Alone, the Hammer of Thunderbolts is a powerful magical weapon, but when merged with the gauntlets of ogre power and the girdle of frost giant strength, the hammer is transformed. This transformation requires magical assistance. The Hammer of Thunderbolts is then capable of doing an additional +8 damage as well as instantly killing any giant or ogre that it strikes.
+PARAMÈTRES :
 
-STATISTICS:
-
-THAC0: +3
-Damage: 2d4+3 (crushing)
-Speed Factor: 1
-Proficiency Type: War Hammer
-Type: One-handed
-Requires:
- 18 Strength
-
-Weight: 4
-~
+TAC0 : +3
+Dégâts : 2D4 +3
+Type de dégât : contondant
+Poids : 4
+Facteur de vitesse : 1
+Type de compétence : marteau de guerre
+Type : arme à 1 main
+Force nécessaire : 18~
 //#39548 BGII
-@80057 = ~Originally blessed by Shar, this armor has a long and interesting history. Only the greatest of thieves have ever owned this heavily enchanted armor. The essence of night has been woven into the dark set of armor so that it feels like normal armor but encloses the wearer in a mass of twisting shadows.
+@80057 = ~Cette armure, originellement bénite par Shar, a une histoire longue et intéressante. Seuls les plus grands voleurs ont jamais possédé cette protection lourdement enchantée. L'essence de la nuit a été tissée dans cette sombre armure de sorte qu'elle semble normale à porter, mais qu'elle entoure son porteur d'ombres entortillées.
 
-STATISTICS:
+PARAMÈTRES :
 
-Equipped abilities:
-– Hide In Shadows: +20%
+Capacités d'équipement :
++20 % pour se cacher dans l'ombre
 
-Armor Class: 3 (5 vs. piercing and missile)
-Requires:
- 3 Strength
+Classe d'armure : 3
+Poids : 5
+Force nécessaire : 3
 
-Weight: 5
-~
+Poids : 5~
 //#66422 BGII
-@80059 = ~This armor was created for Enkidu, a famed warrior from Kara-Tur. While none dared challenge him in fair combat, Enkidu was often subject to cowardly sneak attacks from assassins, ninjas and Wu-Jen.
+@80059 = ~Cette armure a été créée pour Enkidu, un fameux guerrier de Kara-Tur. En effet, alors qu'aucun adversaire ne se risquait à le défier en combat loyal, nombreux étaient ceux, ninjas, assassins ou wu-jen, qui tentaient de le poignarder dans le dos.
 
-STATISTICS:
+PARAMÈTRES :
 
-Equipped abilities:
-– Magic Resistance: +5%
-– Immunity to backstab
+Capacités d'équipement :
+Immunité complète à l'Attaque sournoise
++5 % de Résistance magique
 
-Armor Class: -2 (-6 vs. slashing, -5 vs. piercing and missile)
-Requires:
- 15 Strength
-
-Weight: 45
-~
+Classe d'armure : -2
+poids : 45
+Force nécessaire : 15~
 
 // is @32 in "setup-AC_QUEST.tra".
 @100032   = ~Arc long elfique d'Aphriel
@@ -280,19 +216,15 @@ Nécessite :
 Poids : 2
 ~
 // is @48 in "setup-AC_QUEST.tra".
-@100048   = ~This shield is polished to a high gloss and obviously magical. Scratches disappear and blood and dirt simply run off of its reflective surface. It can be presumed that it can even withstand the look of a basilisk.
+@100048   = ~Ce bouclier est poli jusqu'à briller intensément et est évidemment magique. Les éraflures disparaissent et le sang et la saleté s'écoulent simplement de sa surface réfléchissante. On peut supposer qu'il peut même résister supporter d'un basilic.
 
-STATISTICS:
+PARAMÈTRES :
 
-Equipped abilities:
-- Armor Class: +2
-- The wearer is protected against all types of petrification and forms of gaze attacks.
+Le porteur est protégé contre tous les types de pétrification et toutes les attaques de regard.
 
-Requires: 
- 12 Strength
-
-Weight: 7
-~
+Classe d'armure : +2
+Poids : 7
+Nécessite : 12 en Force~
 // is @58 in "setup-AC_QUEST.tra".
 @100058   = ~Armure en cuir de grouilleux
 
@@ -316,18 +248,15 @@ Nécessite :
 Poids : 7
 ~
 // is @86 in "setup-AC_QUEST.tra".
-@100086   = ~The priest of Moradin, Bashrik Sparklehammer, was considered as wise and true and within the community of liberal dwarves. He continued to fight against the secession of the surface dwarves and generally relished a high reputation. This hammer, charged with the thunderbolts of Moradin, was his greatest weapon in the fight against evil.
+@100086   = ~Le prêtre de Moradin, Bashrik Marteauchargé, était considéré comme sage et vrai au sein de la communauté des nains libéraux. Il luttait sans cesse contre la sécession des nains de surface et jouissait généralement d'une grande réputation. Ce marteau, chargé des coups de foudre de Moradin, était sa plus grande arme dans la lutte contre le mal.
 
-STATISTICS:
+PARAMÈTRES :
 
-THAC0: +2
-Damage: 1d4+3, +1 electrical
-Damage type: Crushing
-Speed Factor: 2
-Proficiency Type: War Hammer
-Type: One-handed
-Requires: 
- 9 Strength
- 
-Weight: 5
-~
+Dégâts : 1D4 + 3 (+1 d'électricité) 
+TAC0 : +2
+Type de dégât : contondant
+Type de compétence : Marteau de guerre
+Facteur de vitesse : 2
+Type : à une main
+Poids : 5
+Force nécessaire : 9~
