@@ -1,34 +1,34 @@
-@0   = ~Vous, là ! Ne bougez plus et déclarez la raison de votre venue !~ 
+@0   = ~Vous, là ! Ne bougez plus et déclarez la raison de votre venue !~
 @1   = ~Nous sommes des amis, ma dame. Nous ne cherchons pas les ennuis.~
-@2   = ~Nous sommes le groupe de <CHARNAME> et nous pourchassons des bandits.~ 
+@2   = ~Nous sommes le groupe de <CHARNAME> et nous pourchassons des bandits.~
 @3   = ~Et vous, qui êtes-vous ?~
-@4   = ~Faites attention à vos manières !~ 
+@4   = ~Faites attention à vos manières !~
 @5   = ~Si c'est la bagarre que vous cherchez, vous allez la trouver !~
 @6   = ~Qu'est-ce qui vous amène à Bois-Manteau alors ? Parlez !~
-@7   = ~Le nom de <CHARNAME> ne m'est pas inconnu. Eh bien, je pense que je vais vous faire confiance, du moins pour l'instant. Et pour être tout à fait honnête, je pourrais même avoir besoin de votre aide.~ 
+@7   = ~Le nom de <CHARNAME> ne m'est pas inconnu. Eh bien, je pense que je vais vous faire confiance, du moins pour l'instant. Et pour être tout à fait honnête, je pourrais même avoir besoin de votre aide.~
 @8   = ~Qu'est-ce qui vous tracasse ? Dites-le nous.~
-@9   = ~Nous écoutons ce que vous avez à dire.~ 
+@9   = ~Nous écoutons ce que vous avez à dire.~
 @10  = ~Et vous attendez de nous que nous vous aidions après cet accueil cinglant ?~
 @11  = ~Nous avons nos propres problèmes.~
-@12  = ~Je suis Aphriel, une rôdeuse à la poursuite des bandits.~ 
+@12  = ~Je suis Aphriel, une rôdeuse à la poursuite des bandits.~
 @13  = ~Alors, nous avons un objectif commun. Nous sommes le groupe de <CHARNAME>.~
-@14  = ~Il n'y a donc aucune raison d'être aussi agressive.~ 
+@14  = ~Il n'y a donc aucune raison d'être aussi agressive.~
 @15  = ~Vous vous baladez en territoires contestés, <RACE>. Des bandits errent dans les bois ainsi que, plus récemment, des mercenaires lourdement armés du Trône de Fer. En outre, les druides sont assez nerveux ces derniers temps. Alors, dites-moi qui vous êtes !~
 @16  = ~Je redoutais l'arrivée d'individus tels que vous ! Préparez-vous à faire la connaissance de votre dieu !~
 @17  = ~Nous ne cherchons pas la confrontation ! Nous sommes le groupe de <CHARNAME> et nous pourchassons des bandits.~
-@18  = ~Attendez ! Qui êtes-vous ?~ 
+@18  = ~Attendez ! Qui êtes-vous ?~
 @19  = ~Et vous au vôtre !~
-@20  = ~Crevez !~ 
-@21  = ~(Soupir) Je suis à la recherche de mon fils. Des bandits l'ont enlevé.~ 
+@20  = ~Crevez !~
+@21  = ~(Soupir) Je suis à la recherche de mon fils. Des bandits l'ont enlevé.~
 @22  = ~Quelle horreur ! Nous allons vous aider.~
-@23  = ~Pourquoi ces gens font-ils une chose pareille ?~ 
+@23  = ~Pourquoi ces gens font-ils une chose pareille ?~
 @24  = ~Avez-vous une idée de l'endroit où il pourrait se trouver ?~
 @25  = ~Pensez-vous qu'il est toujours vivant ?~
 @26  = ~J'ai bien peur que nous ne puissions pas vous aider.~
 @27  = ~Je vous remercie. Je suis à la recherche de mon fils. Des bandits l'ont enlevé.~
 @28  = ~Veuillez me pardonner. Écoutez, je suis désespérée. Je suis à la recherche de mon fils qui a été enlevé par des bandits.~
 @29  = ~Si vous le dites. Je ne pense pas que vous soyez des bandits, mais cela ne signifie pas pour autant que vous méritiez mon respect. Poursuivez-donc ce qui vous semble être si important.~
-@30  = ~J'ai longtemps été une rôdeuse dans ces bois jusqu'à ce que je prenne ma retraite, voici quelques années de cela à la Porte de Baldur, où je me suis installée avec mon compagnon commerçant. Nous gagnions plutôt bien notre vie, et maintenant des bandits exigent une rançon que nous ne pouvons, ni ne voulons payer.~ 
+@30  = ~J'ai longtemps été une rôdeuse dans ces bois jusqu'à ce que je prenne ma retraite, voici quelques années de cela à la Porte de Baldur, où je me suis installée avec mon compagnon commerçant. Nous gagnions plutôt bien notre vie, et maintenant des bandits exigent une rançon que nous ne pouvons, ni ne voulons payer.~
 @31  = ~Les bandits du Trône de Fer ont une base quelque part dans la forêt. Je suppose qu'ils le gardent en captivité là-bas.~
 @32  = ~Il doit forcément être en vie ! Il est tout pour moi ! Et aussi parce que les bandits veulent m'extorquer une rançon.~
 @33  = ~Écoutez, je ne vous demande pas de vous consacrer uniquement à sa recherche. Mais si par chance vous le retrouvez... Pourriez-vous au moins l'escorter jusqu'à l'auberge de Brasamical ? Il y sera en sécurité. Pensez-y. Je vais maintenant continuer mon chemin.~
@@ -38,7 +38,7 @@
 @37  = ~Bien sûr. Je suis désolé.~ ~Bien sûr. Je suis désolée.~
 @38  = ~Et qu'est-ce que j'y gagne en retour ?~
 @39  = ~J'espère qu'il n'est pas trop tard... un prêtre ! J'ai besoin d'un prêtre !~
-@40  = ~Je suis un prêtre. Laissez-moi voir si je peux faire quelque chose.~ ~Je suis une prêtresse. Laissez-moi voir si je peux faire quelque chose.~ // une clerc ?
+@40  = ~Je suis un prêtre. Laissez-moi voir si je peux faire quelque chose.~ ~Je suis une prêtresse. Laissez-moi voir si je peux faire quelque chose.~
 @41  = ~Nous disposons d'une assistance divine. <PLAYER2> peut vous aider !~
 @42  = ~Nous disposons d'une assistance divine. <PLAYER3> peut vous aider !~
 @43  = ~Nous disposons d'une assistance divine. <PLAYER4> peut vous aider !~
@@ -83,13 +83,13 @@
 @82  = ~Mais je n'ai rien d'autre sur moi qu'une petite poignée de piécettes.~
 @83  = ~Dans ce cas, je vais prendre l'arc.~
 @84  = ~Alors vous avez un gros problème.~
-@85  = ~Allez au diable !~ 
+@85  = ~Allez au diable !~
 @86  = ~N'escomptez aucune gratitude de ma part, <GABBER>. J'ai vraiment eu tort à votre sujet.~
 @87  = ~Au secours ! S'il vous plaît, libérez-moi !~
 @88  = ~Tout de suite, petit. Je vais couper tes liens.~
 @89  = ~Tu es Perwell, n'est-ce pas ? Je suis <GABBER>. Ta mère te recherche.~
 @90  = ~Hmm... je ne pense pas, non.~
-@91  = ~Oh, merci mon seigneur, merci, merci, merci ! Les bandits m'ont enlevé pour faire chanter ma maman. Mais maintenant, je peux leur échapper !~ ~Oh, merci ma dame, merci, merci, merci ! Les bandits m'ont enlevé pour faire chanter ma maman. Mais maintenant, je peux leur échapper !~ 
+@91  = ~Oh, merci mon seigneur, merci, merci, merci ! Les bandits m'ont enlevé pour faire chanter ma maman. Mais maintenant, je peux leur échapper !~ ~Oh, merci ma dame, merci, merci, merci ! Les bandits m'ont enlevé pour faire chanter ma maman. Mais maintenant, je peux leur échapper !~
 @92  = ~Arriveras-tu à trouver la sortie tout seul ?~
 @93  = ~Allez, dépêche-toi de t'enfuir.~
 @94  = ~Tu m'as déjà assez retardé comme ça, gamin ! Dégage !~ ~Tu m'as déjà assez retardée comme ça, gamin ! Dégage !~
@@ -102,7 +102,7 @@
 @101 = ~Je suis en mesure de te ramener chez toi, mais tout d'abord, il faut que je termine quelque chose ici.~
 @102 = ~Oh, tu peux y arriver tout seul, bonhomme.~
 @103 = ~Assez ! Ma patience a des limites !~
-@104 = ~Youpi ! Vous êtes le meilleur !~ ~Youpi ! Vous êtes la meilleure !~ 
+@104 = ~Youpi ! Vous êtes le meilleur !~ ~Youpi ! Vous êtes la meilleure !~
 @105 = ~Je vais me faufiler dehors et vous attendre dans la cour, tout en haut ! Je vais rentrer à ma maison, youpi !~
 @106 = ~C'est possible... mais je préférerais y aller avec vous.~
 @107 = ~Très bien. Je vais t'emmener avec moi, mais tout d'abord, il faut que je termine quelque chose ici.~
@@ -129,4 +129,4 @@
 
 /* new for v4.0 */
 //@35 last part
-@128  = ~Qu'est-ce que c'est ? Est-ce que c'est... oh non ! Perwell !~
+@128 = ~Qu'est-ce que c'est ? Est-ce que c'est... oh non ! Perwell !~

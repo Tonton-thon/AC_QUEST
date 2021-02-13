@@ -28,7 +28,7 @@ PARAMÈTRES :
 
 Poids : 110
 ~
-//@32   not needed in EE!
+//@32 not needed in EE!
 @38   = ~Après sa mort, le loup-garou est redevenu un humain.
 
 PARAMÈTRES :
@@ -36,7 +36,7 @@ PARAMÈTRES :
 Poids : 105~
 @40   = ~Les baies de guril sont des remèdes traditionnels à Faerûn, et sont utilisées pour diverses applications. Elles sont particulièrement appréciées pour soulager les souffrances du type "privées", c'est pourquoi ces baies sont souvent proposées par les magasins à proximité des courtisanes.
 
-Poids : 1~ 
+Poids : 1~
 @44   = ~Cette potion contient principalement des fleurs de Belladone.
 
 Poids : 0~
@@ -47,7 +47,7 @@ Poids : 0~
 
 Poids : 0~
 
-//@48   not needed in EE!
+//@48 not needed in EE!
 
 @50   = ~Dans ce livre, le grand Karlini, l'une des figures les plus colorées de la sagesse gnomique, a consigné ses expériences et ses sorts. L'écriture est confuse et gribouillée, et il est probable que seul quelqu'un d'aussi fou que Karlini soit en mesure de déchiffrer ce griffonnage.
 
@@ -65,7 +65,7 @@ PARAMÈTRES :
 
 Poids : 0
 ~
-//@58   not needed for EE!
+//@58 not needed for EE!
 
 @60   = ~Elminster est l'oiseau apprivoisé de Geraldo, bien que lui-même n'en connaisse pas l'espèce exacte. L'oiseau a une allure rusée et une aversion exceptionnelle pour les grouilleux. Dès qu'il en sent un, il piaille bruyamment.
 
@@ -101,7 +101,7 @@ Poids : 3~
 
 Poids : 0~
 
-//@86   not needed in EE!
+//@86 not needed in EE!
 
 @88   = ~Le livre est écrit avec une écriture soignée et relate le dernier voyage de Bashrik Marteauchargé. Bachrik était à la poursuite d'une secte appelée "Les Serpents d'Abbathor". Pour eux, Abbathor, le seul dieu maléfique parmi les Morndinsamman, est considéré comme le libérateur et le saint patron des nains occupants la surface.
 
@@ -130,7 +130,7 @@ Poids : 30~
 
 PARAMÈTRES :
 
-Dégâts :  1D8
+Dégâts : 1D8
 Type de dégât : tranchant
 Poids : 4
 Facteur de vitesse : 4
@@ -143,14 +143,14 @@ Force nécessaire : 6~
 
 PARAMÈTRES :
 
-Dégâts :  1D8 +1 (+1 de feu)
+Dégâts : 1D8 +1 (+1 de feu)
 TAC0 : +1
 Type de dégât : tranchant
 Poids : 4
 Facteur de vitesse : 4
 Type de compétence : Épée longue
 Type : arme à 1 main
-Force nécessaire : 6~ 
+Force nécessaire : 6~
 //#6742 BGII same as @80042
 
 

@@ -1,7 +1,7 @@
 @0    = ~Je vous en prie ! Ne partez pas, aidez-moi !~
-@1    = ~Vous n'avez plus besoin de crier, ma dame. Je vais vous aider.~ 
+@1    = ~Vous n'avez plus besoin de crier, ma dame. Je vais vous aider.~
 @2    = ~Calmez-vous, bonne dame. Dites-moi ce qui s'est passé.~
-@3    = ~Il se trouve que nous sommes disponibles à la location. Travail bien fait si le paiement est correct.~ 
+@3    = ~Il se trouve que nous sommes disponibles à la location. Travail bien fait si le paiement est correct.~
 @4    = ~Laissez-moi tranquille, j'ai des choses plus importantes à faire.~
 @5    = ~(Poussez la femme de côté) Hors de mon chemin !~
 @6    = ~Oh, merci, bon monsieur.~ ~Oh, merci, bonne dame.~
@@ -13,7 +13,7 @@
 @12   = ~Qu'est-ce qui s'est passé ?~
 @13   = ~Ce n'est pas mon problème. Adieu.~
 @14   = ~Il est parti pour une excursion en montagne avec sa fiancée il y a quelques jours. Ils allaient faire un pique-nique... et je pense qu'il voulait la demander en mariage.~
-@15   = ~Mais ils ne sont jamais revenus, alors Barin a réuni une compagnie de fermiers et a fouillé les montagnes. Ils ont... oh non, c'est trop affreux ! (sanglots)~ 
+@15   = ~Mais ils ne sont jamais revenus, alors Barin a réuni une compagnie de fermiers et a fouillé les montagnes. Ils ont... oh non, c'est trop affreux ! (sanglots)~
 @16   = ~Qu'est-ce qui s'est passé ?~
 @17   = ~Qui est Barin ?~
 @18   = ~Pouvez-vous nous dire autre chose ?~
@@ -21,7 +21,7 @@
 @20   = ~Très bien, nous allons chercher votre fils.~
 @21   = ~Si vous voulez en savoir plus, adressez-vous à Barin. Il est probablement dans le temple en ce moment.~
 @22   = ~Qu'ont-ils trouvé ?~
-@23   = ~Oh, vous me rendez si heureuse, <SIRMAAM>. Dépêchez-vous, Aaron est un garçon si émotif et si sensible... Il aura sûrement très peur !~ 
+@23   = ~Oh, vous me rendez si heureuse, <SIRMAAM>. Dépêchez-vous, Aaron est un garçon si émotif et si sensible... Il aura sûrement très peur !~
 @24   = ~Et parlez à Barin dans le temple, car il pourra certainement vous donner plus de détails.~
 @25   = ~Je... Je n'ai pas d'autres objets de valeur que le collier en argent de ma mère. Je vous promets que vous pourrez l'avoir si seulement vous me rameniez mon fils !~
 @26   = ~Ils ont trouvé le corps de Marina ! Quelqu'un l'a tuée et l'a jetée dans la chute d'eau. La pauvre enfant ! Elle était si jeune ! Et il y avait des empreintes de monstres partout. Personne n'osait les suivre, n'étant que des fermiers. Oh, je vous en prie ! Trouvez mon garçon !~
@@ -100,13 +100,13 @@
 @99   = ~Qui est Aaron ?~
 @100  = ~Pourquoi attendez-vous ?~
 @101  = ~Un fantôme ? J'attends... j'attends Aaron...~
-@102  = ~Non ! Les monstres sont de retour ! Aaron ! A l'aide !~
+@102  = ~Non ! Les monstres sont de retour ! Aaron ! À l'aide !~
 @103  = ~Aaron...~
 @104  = ~Aaron... J'attends Aaron...~
 @105  = ~J'ai promis... Aaron... attendre Aaron...~
-@106  = ~Ma... Marina ? Oui... je m'appelle Marina. Oh, <LADYLORD>, les souvenirs perdus reviennent, je commence à me souvenir. Oh non ! ( pleurs)~
+@106  = ~Ma... Marina ? Oui... je m'appelle Marina. Oh, <LADYLORD>, les souvenirs perdus reviennent, je commence à me souvenir. Oh non ! (pleurs)~
 @107  = ~Chuuut, tout va bien se passer. Je suis là pour vous aider.~
-@108  = ~Écoutez, nous cherchons Aaron. Aidez-nous - que s'est-il passé ?~
+@108  = ~Écoutez, nous cherchons Aaron. Aidez-nous, que s'est-il passé ?~
 @109  = ~Pourquoi êtes-vous encore ici ? Qu'est-ce qui vous lie à cet endroit ?~
 @110  = ~Je vais donc partir et chercher Aaron.~
 @111  = ~Oh s'il vous plaît, <LADYLORD>. Libérez-moi de cette forme de revenant ! Je ne veux pas rester ici, mais j'ai promis !~
@@ -143,7 +143,7 @@
 @142  = ~Je vous remercie. C'est tout ce que j'ai besoin de savoir.~
 @143  = ~Écoutez bien maintenant, mes amis. Je ne suis pas dans le temple de Heaum pour rien. Je suis ici parce que j'ai vu quelque chose là-bas.~
 @144  = ~La nuit, on peut voir un personnage près de la chute d'eau. Une forme d'un blanc éclatant ! Je ne sais pas comment vous traitez ce genre de chose, mais je choisis de prier pour l'aide divine avant d'affronter les fantômes et les morts-vivants.~
-@145 = ~Nous avons parlé à ce fantôme. C'est Marina.~
+@145  = ~Nous avons parlé à ce fantôme. C'est Marina.~
 @146  = ~Nous avons offert la rédemption à ce fantôme. C'était Marina.~
 @147  = ~Je vais poursuivre la recherche d'Aaron. Pouvez-vous me donner quelques indices ?~
 @148  = ~Les montagnes sont grandes et je n'avais qu'une poignée de paysans avec moi. La plupart d'entre eux n'avaient aucune expérience de la vie sauvage et voulaient retourner dans leurs champs. Vous pouvez imaginer l'aide qu'ils auraient apportée dans un combat.~
@@ -156,7 +156,7 @@
 @155  = ~Maman, dis-moi : Marina va bien ? Où est-elle ?~
 @156  = ~Oh, mon garçon...~
 @157  = ~Quoi ? Tu veux dire qu'elle... non ! Non !~
-@158  = ~(Aaron tombe à genoux et se met à pleurer de façon incontrôlable)~
+@158  = ~(Aaron tombe à genoux et se met à pleurer de façon incontrôlable.)~
 @159  = ~Pourquoi les monstres ne m'ont-ils pas tué à la place ?~
 @160  = ~Je crains que ce soit encore pire, Aaron. Barin a parlé d'un fantôme qui hante les chutes d'eau.~
 @161  = ~Je crains que ce soit encore pire, Aaron. Nous avons rencontré Marina. Ou plutôt, son fantôme.~
@@ -181,4 +181,4 @@
 @180  = ~Bien dit. Montrez-lui sa place.~ //Kagain
 @181  = ~Oh, <CHARNAME>. Je ne pense pas que Gorion t'ait appris à te comporter comme *ça*.~ //jaheira
 @182  = ~Nous aurions aussi dû lui donner un bon coup de pied !~ // Montaron
-@183  = ~Vous avez apporté le repos à son esprit. Je vous remercie, <CHARNAME>. (soupir) Je ne sais pas comment je vais continuer - sans elle... Mais ne vous inquiétez pas, tout ira bien. Adieu, <CHARNAME>.~
+@183  = ~Vous avez apporté le repos à son esprit. Je vous remercie, <CHARNAME>. (soupir) Je ne sais pas comment je vais continuer, sans elle... Mais ne vous inquiétez pas, tout ira bien. Adieu, <CHARNAME>.~

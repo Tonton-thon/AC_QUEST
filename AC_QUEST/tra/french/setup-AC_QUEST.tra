@@ -7,10 +7,10 @@
 @6    = ~Agnus~
 @7    = ~Agnus le Blanc~
 @8    = ~Teliel~
-@9    = ~Teliel Chantepré~ //fand ich als Nachnahmen schöner
+@9    = ~Teliel Chantepré~
 @10   = ~Udolf~
 @11   = ~Udolf Raukner~
-@12   = ~Mme Brunnstein~ 
+@12   = ~Mme Brunnstein~
 @13   = ~Aaron~
 @14   = ~Aaron Brunnstein~
 @15   = ~Fantôme~
@@ -79,7 +79,7 @@ Poids : 105~
 @39   = ~Baies de Guril~
 @40   = ~Les baies de guril sont des remèdes traditionnels à Faerûn, et sont utilisées pour diverses applications. Elles sont particulièrement appréciées pour soulager les souffrances du type "privées", c'est pourquoi ces baies sont souvent proposées par les magasins à proximité des courtisanes.
 
-Poids : 1~ 
+Poids : 1~
 @41   = ~Sang d'Aiwell~
 @42   = ~Aiwell vous a donné une grande partie de son sang pour sauver son mari Tonder.~
 @43   = ~Potion contre la Lycanthropie~
@@ -174,7 +174,7 @@ L~ ~Cette <CHARNAME> qui travaille pour Wostok fait route vers ici. Prenez quelq
 L~
 @78   = ~Lugosch, fidèle serviteur !
 
-Nous saluons votre effort pour prendre le contrôle de la mine de fer de Nashkel. Cependant, nous avons une autre préoccupation : garder un oeil sur <CHARNAME> de Chateausuif. L'ordre vient des profondeurs inférieures et vous savez ce que cela signifie.
+Nous saluons votre effort pour prendre le contrôle de la mine de fer de Nashkel. Cependant, nous avons une autre préoccupation : garder un œil sur <CHARNAME> de Chateausuif. L'ordre vient des profondeurs inférieures et vous savez ce que cela signifie.
 
 A Dieu toute la gloire et tous les joyaux au Serpent !~
 @79   = ~Journal de Lugosch~
@@ -244,7 +244,7 @@ D'après ce que vous savez des anciens nains, un tel acte est le plus grand sacri
 @116  = ~Ron~
 @117  = ~Hank~
 @118  = ~Les Serpents d'Abbathor~
-@119  = ~Lugosch et ses hommes sont morts et les mines de Nashkel sont libérées de leur mal. Cependant, cette victoire a soulevé plus de questions qu'elle n'a apporté de réponses. Les nains qui ont rejoint la secte ne sont-ils en fait rien d'autre que des parias à la recherche d'un nouveau foyer ? Si oui, pourquoi les hommes des Serpents demandent-ils si fermement et avec tant de véhémence votre mort ? Ce sont des questions auxquelles il n'y a pas de réponse car la voie que vous avez suivie s'arrête ici. Il ne vous reste plus qu'à parler à Emerson et à lui annoncer que les mines sont à nouveau libres - et à espérer que tout s'arrangera un jour.~
+@119  = ~Lugosch et ses hommes sont morts et les mines de Nashkel sont libérées de leur mal. Cependant, cette victoire a soulevé plus de questions qu'elle n'a apporté de réponses. Les nains qui ont rejoint la secte ne sont-ils en fait rien d'autre que des parias à la recherche d'un nouveau foyer ? Si oui, pourquoi les hommes des Serpents demandent-ils si fermement et avec tant de véhémence votre mort ? Ce sont des questions auxquelles il n'y a pas de réponse car la voie que vous avez suivie s'arrête ici. Il ne vous reste plus qu'à parler à Emerson et à lui annoncer que les mines sont à nouveau libres, et à espérer que tout s'arrangera un jour.~
 @120  = ~Jasr~
 @121  = ~Jas~
 @122  = ~Jen~
@@ -345,16 +345,16 @@ J'ai pu trouver les notes d'Emerson. Il sera certainement content de les récupér
 J'ai pu sauver les mineurs disparus des griffes d'un clerc fou. Emerson sera certainement content de cette nouvelle.~
 @10020 = ~Les Serpents d'Abbathor
 
-J'ai pu arrêter l'avancée des Serpents dans la zone de la Porte de Baldur, du moins je l'espère. Lugosh Grauhemd est mort, et je n'ai aucune information sur les autres dirigeants de la secte. Je ne peux cependant pas dire pourquoi mon nom a été mentionné si explicitement. Peut-être apprendrai-je ce secret un jour - mais je ne sais pas si je dois le souhaiter.~
+J'ai pu arrêter l'avancée des Serpents dans la zone de la Porte de Baldur, du moins je l'espère. Lugosh Grauhemd est mort, et je n'ai aucune information sur les autres dirigeants de la secte. Je ne peux cependant pas dire pourquoi mon nom a été mentionné si explicitement. Peut-être apprendrai-je ce secret un jour, mais je ne sais pas si je dois le souhaiter.~
 @10021 = ~Un nain mort et un message
 
-Dans la caverne de Mulahey, j'ai trouvé le cadavre d'un nain sur lequel il y avait un message pour Mulahey - apparemment, le destinataire n'était pas particulièrement intéressé par ce que le messager avait à dire. Le message parle d'une rencontre à Beregost. Je devrais peut-être aller enquêter sur cette affaire.~
+Dans la caverne de Mulahey, j'ai trouvé le cadavre d'un nain sur lequel il y avait un message pour Mulahey, apparemment, le destinataire n'était pas particulièrement intéressé par ce que le messager avait à dire. Le message parle d'une rencontre à Beregost. Je devrais peut-être aller enquêter sur cette affaire.~
 @10022 = ~Un nain mystérieux à Beregost
 
-Tarash Casquenoir était extrêmement méfiant et agressif - j'ai dû le tuer. Parmi ses possessions, il y avait une lettre indiquant qu'un assassinat se préparait au nord de la ville...~
+Tarash Casquenoir était extrêmement méfiant et agressif, j'ai dû le tuer. Parmi ses possessions, il y avait une lettre indiquant qu'un assassinat se préparait au nord de la ville...~
 @10023 = ~Un nain mystérieux à Beregost
 
-Tarash Casquenoir a parlé des "Serpents d'Abbathor" - quels qu'ils soient. Et il a dit que quelque chose va se passer au nord de Beregost... Je devrais garder un œil sur le Carrefour.~
+Tarash Casquenoir a parlé des "Serpents d'Abbathor", quels qu'ils soient. Et il a dit que quelque chose va se passer au nord de Beregost... Je devrais garder un œil sur le Carrefour.~
 @10024 = ~Le Fils Perdu
 
 Nous avons informé Mme Brunnstein de la mort de son fils.~
@@ -375,7 +375,7 @@ Aphriel, l'elfe, cherche son fils Perwell dans la forêt de Bois-Manteau. Des ban
 J'ai trouvé Perwell dans la mine et je l'ai envoyé à la surface. D'un côté, je pourrais sûrement lui faire franchir les bois... mais d'un autre côté, Aphriel pourrait me payer une belle rançon pour le môme...~
 @10030 = ~À la recherche de Perwell
 
-J'ai trouvé Perwell dans la mine et je l'ai laissé partir. Je n'ai pas de temps à perdre avec des mioches.~ 
+J'ai trouvé Perwell dans la mine et je l'ai laissé partir. Je n'ai pas de temps à perdre avec des mioches.~
 @10031 = ~À la recherche de Perwell
 
 Aphriel est maintenant à la recherche de son fils elle-même. Au moins, je l'aurai sauvé de la mine.~
@@ -429,22 +429,22 @@ Aiwell était vraiment triste quand elle a appris la mort de son mari. Elle est p
 
 Quelle journée infructueuse. Aiwell a perdu son mari, le mari est... enfin, mort, Thalantyr n'a pas eu de cadavre de loup-garou pour ses recherches, et je n'ai pas été récompensé pour mes efforts. La prochaine fois, je dois vraiment regarder où je mets mes trophées !~
 
-@20001 = ~Le culte de l'Oeil Aveugle - Bunger Wiesner
+@20001 = ~Le culte de l'Œil Aveugle - Bunger Wiesner
 
 La petite-dame Emmi Wiesner nous a carrément supplié de rechercher son fils, qui a été entraîné dans les griffes du Culte.~
-@20002 = ~Le culte de l'Oeil Aveugle - Bunger Wiesner
+@20002 = ~Le culte de l'Œil Aveugle - Bunger Wiesner
 
 J'ai trouvé Bunger et je l'ai persuadé de venir avec moi. Il restera tranquille jusqu'à ce que j'ai éliminé le danger que représente le Culte.~
-@20003 = ~Le culte de l'Oeil Aveugle - Bunger Wiesner
+@20003 = ~Le culte de l'Œil Aveugle - Bunger Wiesner
 
 J'ai trouvé Bunger et je l'ai persuadé de s'enfuir. Par contre, ça a alerté le culte.~
-@20004 = ~Le culte de l'Oeil Aveugle - Bunger Wiesner
+@20004 = ~Le culte de l'Œil Aveugle - Bunger Wiesner
 
 J'ai trouvé Bunger. Malheureusement, il n s'est pas excusé et a alerté le reste du culte. J'ai dû le tuer.~
-@20005 = ~Le culte de l'Oeil Aveugle - Bunger Wiesner
+@20005 = ~Le culte de l'Œil Aveugle - Bunger Wiesner
 
 En tentant de se sauver, Bunger Wiesner est mort sous la ville.~
-@20006 = ~Le culte de l'Oeil Aveugle - Bunger Wiesner
+@20006 = ~Le culte de l'Œil Aveugle - Bunger Wiesner
 
 Bunger Wiesner est retourné chez sa mère. La vieille dame voudra sûrement nous remercier.~
 @20023 = ~Une offre mystérieuse
@@ -455,11 +455,11 @@ Un messager m'a apporté une invitation de son maître. Bien qu'il garde son nom s
 //BG:EE Compatibility
 
 //Strings from Original BG2 for Setup-AC_QUEST.tra
-@80001 = ~ Que quelqu'un m'aide !~ [PEASF09] //#61667
+@80001 = ~Que quelqu'un m'aide !~ [PEASF09] //#61667
 @80002 = ~~ [PEASF07] //#61665
 @80003 = ~~ [PEASF08] //#61666
 @80004 = ~Je remercie les dieux chaque jour pour les bonnes choses de ma vie.~ [PEASF02] //##61660
-@80005 = ~ Aaahhhh......... courrez !~ [PEASM09] //#61823
+@80005 = ~Aaahhhh......... courrez !~ [PEASM09] //#61823
 @80006 = ~~ [PEASM07] //#61821
 @80007 = ~~ [PEASM08] //#61822
 @80008 = ~Je vais échanger quelques mots avec vous, c'est sûr.~ [PEASM03] //#61817
@@ -534,7 +534,7 @@ Non utilisable par :
  Clerc
  Mage~ //#4421
 
-@80048 = ~Les frondes magiques sont les armes préférées des guerriers petites-gens. Elles sont généralement fabriquées par la mère ou la tante du jeune aventurier, qui leur fournissent cette arme à l'occasion de leur deuxième 'sortie'. Il faut en effet savoir que nombreux sont les jeunes à abandonner la carrière d'aventurier après leur première tentative.
+@80048 = ~Les frondes magiques sont les armes préférées des guerriers petites-gens. Elles sont généralement fabriquées par la mère ou la tante du jeune aventurier, qui leur fournissent cette arme à l'occasion de leur deuxième "sortie". Il faut en effet savoir que nombreux sont les jeunes à abandonner la carrière d'aventurier après leur première tentative.
 
 PARAMÈTRES :
 
@@ -618,20 +618,20 @@ Force nécessaire : 15~ //#66422
 @90006 = ~À la recherche de Perwell~
 @90007 = ~Des loups et des hommes~
 @90008 = ~Les Serpents d'Abbathor~
-@90009 = ~Le culte de l'Oeil Aveugle - Bunger Wiesner~
+@90009 = ~Le culte de l'Œil Aveugle - Bunger Wiesner~
 @90010 = ~Une offre mystérieuse~
 @90011 = ~Un pique-nique raté~
 
 //EE Descriptions, not needed for BGT/BGII
-//@100032   
-//@100048   
-//@100058   
-//@100086  
+//@100032
+//@100048
+//@100058
+//@100086
 
 //Karlini Journals
 @2000001   = ~Le magnifique Karlini - Le livre de sorts du magnifique Karlini
 
-A l'intérieur de L'auberge de Brasamical, nous avons rencontré un gnome appelé Ygnatius Bombastus III.
+À l'intérieur de L'auberge de Brasamical, nous avons rencontré un gnome appelé Ygnatius Bombastus III.
 Il nous a offert 300 pièces d'or si nous ramenons un des livres de sorts de Karlini qui se trouve à l'intérieur des ruines de l'Ulcaster.~
 
 @2000002   = ~Le magnifique Karlini - Le livre de sorts du magnifique Karlini
@@ -660,7 +660,7 @@ Nous avons surveillé le lancement du sort mais, étonnamment, un balor a fait son
 
 @2000008   = ~Le magnifique Karlini
 
-Nous avons surveillé le lancement du sort mais, étonnamment, un balor a fait son apparition et Ygnatius a disparu. Contre toute attente, le monstre a accepté de laisser partir les deux gnomes si nous répondions correctement à quelques questions difficiles sur la Côte des Épées. Sinon, mon âme aurait été sa récompense. Par chance et grâce à mes efforts, j'ai pu répondre correctement aux trois questions. De fait le balor s'est envolé, mais il est resté fidèle à sa parole et a fait revenir les deux gnomes sains et saufs. À leur retour, ils se sont montrés -plus ou moins- reconnaissants. Ha, les gnomes ... Mais quand même, la récompense offerte par ces deux gnomes était à la hauteur des efforts nécessaires pour résoudre les tâches qui m'avaient été confiées.~
+Nous avons surveillé le lancement du sort mais, étonnamment, un balor a fait son apparition et Ygnatius a disparu. Contre toute attente, le monstre a accepté de laisser partir les deux gnomes si nous répondions correctement à quelques questions difficiles sur la Côte des Épées. Sinon, mon âme aurait été sa récompense. Par chance et grâce à mes efforts, j'ai pu répondre correctement aux trois questions. De fait le balor s'est envolé, mais il est resté fidèle à sa parole et a fait revenir les deux gnomes sains et saufs. À leur retour, ils se sont montrés -plus ou moins- reconnaissants. Ha, les gnomes... Mais quand même, la récompense offerte par ces deux gnomes était à la hauteur des efforts nécessaires pour résoudre les tâches qui m'avaient été confiées.~
 
 @2000009   = ~Le magnifique Karlini~
 
@@ -684,31 +684,31 @@ Nous avons dit à Geraldo que nous arrêtions son ingrate besogne. Il a marmonné q
 
 @3000006   = ~Élevage de grouilleux à la Porte de Baldur~
 
-@3000007  = ~Les Serpents d'Abbathor
+@3000007   = ~Les Serpents d'Abbathor
 
 J'ai été témoin d'une embuscade sur le chemin de la Côte et j'ai trouvé le journal d'un nain nommé Bashrik. Je devrais l'apporter au temple de Heaum, à la Porte de Baldur.~
  
-@3000008  = ~Les Serpents d'Abbathor
+@3000008   = ~Les Serpents d'Abbathor
 
 J'ai accepté de confronter ce Draglon qui était mentionné dans le journal de Bashrik. Pour autant que je sache, il pourrait être dans les sous-sols.~
 
-@3000009  = ~Les Serpents d'Abbathor
+@3000009   = ~Les Serpents d'Abbathor
 
 J'ai affronté Draglon, mais il s'est échappé. Je devrais retourner au temple de Heaum et parler aux nains.~
 
-@3000010  = ~Les Serpents d'Abbathor
+@3000010   = ~Les Serpents d'Abbathor
 
 Un mage nommé Jenna garde un artefact pour les nains. Elle et son compagnon Jassir résident dans la taverne du quartier Nord ouest. Je dois y aller et lui dire "Salutations de Mirjala" comme mot de passe.~
 
-@3000011  = ~Les Serpents d'Abbathor
+@3000011   = ~Les Serpents d'Abbathor
 
 J'ai décidé de ne plus aider les nains.~
 
-@3000012  = ~Les Serpents d'Abbathor
+@3000012   = ~Les Serpents d'Abbathor
 
 Jenna a été tuée par les serviteurs des Serpents, et l'objet a été pris. Je devrais retourner voir Wostock pour lui en parler !~
 
-@3000013  = ~Les Serpents d'Abbathor
+@3000013   = ~Les Serpents d'Abbathor
 
 J'ai accepté d'aller visiter un entrepôt dans le district sud-est de la Porte de Baldur. Nous pensons qu'il s'agit de la cachette des Serpents d'Abbathor. J'aurai besoin d'une clé pour entrer.~
 
