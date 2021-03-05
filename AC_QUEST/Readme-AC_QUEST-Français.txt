@@ -220,17 +220,17 @@ VII. Historique des versions :
 ***************************************************************************************************************
 
 
-VIII. Remerciement
+VIII. Remerciements
 
-- White Agnus pour Le conseil et l'action, Inspiration et configuration
-- Gerri pour les tests et les images
-- Jastey pour une grande aide (que ferais-je sans ses exemples d'entrées de journal)
+- White Agnus pour ses conseils et ses actions, l'inspiration qu'il m'a procurée et la configuration du mod.
+- Gerri pour les tests et les images.
+- Jastey pour son aide inestimable (que ferais-je sans ses exemples d'entrées de journal).
 - Leomar et Leonardo Watson pour leur travail sur le BWP.
-- Bloodtitan pour la traduction anglaise
-- Arkie pour la traduction russe
-- Fridtjof et Hedian et tous les autres de www.rosenranken.org qui fournissent une belle maison pour le Pack de Quêtes
-- Enfin et surtout les joueurs motivés et enthousiastes du BWP, qui font vivre le meilleur jeu de tous les temps
-- Et enfin et surtout, mon Revianol suisse préféré, qui a mis toutes les quêtes, toutes les allusions, tous les gags et toutes les petites choses cachées à son actif et qui l'a salué ou freiné - sans jamais dépasser Kerzenburg lui-même. (note du traducteur en français : heu ????)
+- Bloodtitan pour la traduction anglaise.
+- Arkie pour la traduction russe.
+- Fridtjof et Hedian et tous les autres de www.rosenranken.org qui offrent un sympathique foyer au Pack de Quêtes.
+- en dernier, mais pas des moindres, les joueurs motivés et enthousiastes du BWP, qui maintiennent en vie le meilleur jeu de tous les temps.
+- et en fin de compte, ma Suissesse préférée Revianêl, qui a examiné de fond en comble toutes les quêtes, toutes les allusions, tous les gags et tous les petits détails cachées, qu'elle a validés ou refrénés, sans jamais avoir été soi-même au-delà de Château-Suif.
 
 
 ***************************************************************************************************************
